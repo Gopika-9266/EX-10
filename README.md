@@ -66,6 +66,13 @@ while True:
 
 # OUTPUT :
 
+CLIENT:
+
+![ex10client](https://github.com/Gopika-9266/EX-10/assets/122762773/c6aa18d1-3451-47ba-8cde-52cc7fb37626)
+
+SERVER:
+
+![ex10server](https://github.com/Gopika-9266/EX-10/assets/122762773/8ef43fa8-9e7e-45ec-abd2-3e4f645c9bcf)
 
 
 # RESULT :
